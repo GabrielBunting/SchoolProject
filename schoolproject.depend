@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519895404 source:c:\schoolproject\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+
